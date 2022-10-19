@@ -2,4 +2,4 @@
 
 ## Author -- Kevin 
 
-Import maybank-assessment-2022\postman_collection.json for easier access to API collection. 
+Import `maybank-assessment-2022\postman_collection.json` for easier access to API collection. 
